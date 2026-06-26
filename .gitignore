@@ -122,3 +122,6 @@ _book/
 *.lock
 
 backend/spiders
+# Code quality additions
+.env.*
+coverage/
